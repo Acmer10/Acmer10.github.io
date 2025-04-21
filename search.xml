@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>posts</title>
+      <link href="/2025/04/21/posts/"/>
+      <url>/2025/04/21/posts/</url>
+      
+        <content type="html"><![CDATA[<p>Hexo 默认使用 Markdown 格式撰写文章，推荐使用以下编辑器：</p><ul><li><strong><a href="https://code.visualstudio.com/">VSCode</a></strong>：功能强大，支持多种语言和插件扩展</li><li><strong><a href="https://github.com/marktext/marktext">MarkText</a></strong>：轻量级、开源、免费（目前仅英文界面）</li></ul>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>测试</title>
       <link href="/2025/04/19/hello-world/"/>
       <url>/2025/04/19/hello-world/</url>
